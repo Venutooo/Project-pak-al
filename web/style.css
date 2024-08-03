@@ -1,0 +1,22 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar {
+    background-color: red;
+    width: 200pc;
+    height: 100px;
+}
+
+img {
+    width: 250px ;
+    height: 350px;
+    position: fixed;
+    top: 250px;
+    right: 800px;
+
+}
